@@ -2,18 +2,20 @@
 marks = []
 failed_subjects = 0
 
-for i in range(1, 6):
-    m = int(input(f"Enter marks of subject {i}: "))
+for i in range(5):
+    m = int(input(f"Enter marks of subject {i+1}: "))
     marks.append(m)
     if m < 40:   # fail condition per subject
         failed_subjects += 1
 
 # Total & Percentage
 total = sum(marks)
-percentage = total / 5
+percentage = total / len(marks)
 
 # Grade Criteria
-if percentage >= 90:
+if failed_subjects > 0:
+    grade = "Fail"
+elif percentage >= 90:
     grade = "A+"
 elif percentage >= 75:
     grade = "A"
