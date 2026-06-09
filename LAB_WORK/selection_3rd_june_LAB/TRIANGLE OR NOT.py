@@ -1,4 +1,4 @@
-a = int(input("Enter first angle: "))       
+a = int(input("Enter first angle: "))      
 if a <= 0: 
     print("Invalid input. Angle must be greater than 0.")
     exit()
