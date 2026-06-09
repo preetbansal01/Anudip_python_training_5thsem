@@ -1,4 +1,4 @@
-""" 8. String-Based Attendance Tracker 
+""" 8. String-Based Attendance Tracker
 Problem Statement 
 Attendance of a student for 15 days is represented as: 
 PPAPPPAAPPPPAPP 
