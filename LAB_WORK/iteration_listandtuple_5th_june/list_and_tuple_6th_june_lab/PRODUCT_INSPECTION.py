@@ -1,4 +1,4 @@
-products = [
+products = [ 
     (101, "Pass"),
     (102, "Fail"),
     (103, "Pass"),
