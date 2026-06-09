@@ -3,7 +3,7 @@ student = ['A', 'B', 'B', 'D', 'C']
 
 # 1. Calculate score
 score = 0
-for i in range(len(correct)):
+for i in range(len(correct)): 
     if student[i] == correct[i]:
         score += 1
 print("Score:", score, "out of", len(correct))

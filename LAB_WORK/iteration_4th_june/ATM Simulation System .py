@@ -4,7 +4,7 @@ while True:
     print("\n----- MENU -----")
     print("1. Check Balance")
     print("2. Deposit")
-    print("3. Withdraw")
+    print("3. Withdraw") 
     print("4. Exit")
 
     choice = int(input("Enter your choice: "))

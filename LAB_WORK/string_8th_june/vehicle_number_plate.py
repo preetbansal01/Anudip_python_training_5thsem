@@ -1,4 +1,4 @@
-""" 4. Vehicle Number Plate Verification 
+""" 4. Vehicle Number Plate Verification
 Problem Statement 
 A vehicle number plate is entered: 
 MH12AB4589 

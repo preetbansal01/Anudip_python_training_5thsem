@@ -1,4 +1,4 @@
-print("------------ Simple Interest ------------")
+print("------------ Simple Interest ------------") 
 
 p = float(input("ENTER PRINCIPAL AMOUNT: "))
 r = float(input("ENTER RATE OF INTEREST: "))

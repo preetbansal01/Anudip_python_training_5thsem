@@ -1,4 +1,4 @@
-passengers = [12, 18, 25, 30, 28, 15, 8]
+passengers = [12, 18, 25, 30, 28, 15, 8] 
 
 # 1. Find the busiest stop
 busiest = passengers[0]

@@ -1,4 +1,4 @@
-""" 10. Text Compression Analyzer 
+""" 10. Text Compression Analyzer
 Problem Statement 
 A compressed message is given: 
 AAABBBCCCDDDAAA 
