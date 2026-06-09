@@ -1,5 +1,5 @@
 # Accept marks of 5 subjects
-marks = []
+marks = [] 
 failed_subjects = 0
 
 for i in range(1,6):
