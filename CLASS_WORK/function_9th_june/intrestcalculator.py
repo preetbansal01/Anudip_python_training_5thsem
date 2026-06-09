@@ -5,5 +5,5 @@ def simple_intrest(principal , rate ,time):
 #----------------------------------------------
 
 principal = float(input("enter the principle amount :"))
-#validate the principle amount 
+#validate the principle amount  
 
