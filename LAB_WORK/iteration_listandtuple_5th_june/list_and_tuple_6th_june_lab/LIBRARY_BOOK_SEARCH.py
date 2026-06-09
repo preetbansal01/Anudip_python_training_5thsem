@@ -1,4 +1,4 @@
-books = [
+books = [ 
     ("Python Basics", 5),
     ("Data Science", 0),
     ("Java Programming", 3),
