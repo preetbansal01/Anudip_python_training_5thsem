@@ -1,4 +1,4 @@
-""" 3. Chat Message Analytics 
+""" 3. Chat Message Analytics ""
 Problem Statement 
 A chat application stores a message: 
 Python is awesome and Python is easy to learn 
