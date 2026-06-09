@@ -1,4 +1,4 @@
-slots = [1, 0, 1, 1, 0, 0, 1, 0]
+slots = [1, 0, 1, 1, 0, 0, 1, 0] 
 
 # 1. Count occupied and available slots
 occupied = 0
