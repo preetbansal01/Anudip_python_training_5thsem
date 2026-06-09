@@ -1,4 +1,4 @@
-print("------ Area and Perimeter of Rectangle ------")
+print("------ Area and Perimeter of Rectangle ------") 
 
 length = float(input("ENTER LENGTH: "))
 breadth = float(input("ENTER BREADTH: "))
