@@ -1,4 +1,4 @@
-temperature = {
+temperature = { 
     "Delhi": 41,
     "Mumbai": 33,
     "Chennai": 37,
