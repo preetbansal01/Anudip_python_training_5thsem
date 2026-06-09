@@ -1,5 +1,5 @@
 secret_number = 37   # manually fixed secret number (between 1 and 50)
-attempts = 0
+attempts = 0 
 
 print("Guess the secret number between 1 and 50!")
 
