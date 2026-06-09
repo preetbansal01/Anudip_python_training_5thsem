@@ -1,4 +1,4 @@
-""" 
+"""
 7. Username Generator System 
 Problem Statement 
 A student enters: 
