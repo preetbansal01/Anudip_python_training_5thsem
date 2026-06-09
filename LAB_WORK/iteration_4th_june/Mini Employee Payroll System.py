@@ -4,7 +4,7 @@ name = input("Enter Employee Name: ")
 basic_salary = float(input("Enter Basic Salary: ₹"))
 
 # Calculations
-hra = basic_salary * 0.20
+hra = basic_salary * 0.20 
 da = basic_salary * 0.10
 pf = basic_salary * 0.12
 
