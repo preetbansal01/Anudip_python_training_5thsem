@@ -1,4 +1,4 @@
-orders = [
+orders = [ 
     ("Laptop", 55000),
     ("Mouse", 800),
     ("Keyboard", 1500),
