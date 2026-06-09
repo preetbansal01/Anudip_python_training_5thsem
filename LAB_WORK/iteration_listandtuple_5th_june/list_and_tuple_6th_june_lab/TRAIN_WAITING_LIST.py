@@ -1,4 +1,4 @@
-passengers = [
+passengers = [ 
     ("Anuj", "Confirmed"),
     ("Rahul", "Waiting"),
     ("Priya", "Confirmed"),
