@@ -1,4 +1,4 @@
-""" 6. Chat Message Analytics 
+""" 6. Chat Message Analytics
 Problem Statement 
 A user enters an email address: 
 rahul.sharma2026@gmail.com 
