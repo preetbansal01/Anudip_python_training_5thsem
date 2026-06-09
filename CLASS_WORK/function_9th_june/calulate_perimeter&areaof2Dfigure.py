@@ -1,4 +1,4 @@
-import geometry
+import geometry 
 
 print("Rectangle Area:", geometry.rectangle_area(10, 5))
 print("Rectangle Perimeter:", geometry.rectangle_perimeter(10, 5))
