@@ -1,4 +1,4 @@
-""" 9. License Key Verification System 
+""" 9. License Key Verification System
 Problem Statement 
 A software license key is entered: 
 ABCD-EFGH-IJKL-MNOP 

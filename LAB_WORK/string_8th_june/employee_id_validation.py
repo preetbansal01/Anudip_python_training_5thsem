@@ -1,4 +1,4 @@
-""" 1. Employee ID Validation and Analysis System 
+""" 1. Employee ID Validation and Analysis System..
 Problem Statement 
 A company generates employee IDs in the following format: 
 EMP2026ANUJ458 
