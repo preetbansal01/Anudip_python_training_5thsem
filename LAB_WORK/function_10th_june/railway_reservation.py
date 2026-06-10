@@ -1,7 +1,7 @@
 seats = [
     "Booked", "Available", "Booked", "Booked",
     "Available", "Available", "Booked", "Available",
-    "Booked", "Booked", "Available", "Booked"
+    "Booked", "Booked", "Available", "Booked" 
 ]
 
 # 1. Count booked and available seats
