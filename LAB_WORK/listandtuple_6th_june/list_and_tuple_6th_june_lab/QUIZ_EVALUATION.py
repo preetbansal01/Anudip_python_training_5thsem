@@ -1,6 +1,6 @@
 correct = ['A', 'C', 'B', 'D', 'A']
 student = ['A', 'B', 'B', 'D', 'C']
-
+ 
 # 1. Calculate score
 score = 0
 for i in range(len(correct)): 
