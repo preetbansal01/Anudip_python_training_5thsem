@@ -1,5 +1,5 @@
 delivery_time = [28, 45, 60, 22, 35, 80, 40, 25, 55, 18]
-
+ 
 # 1. Returns the shortest delivery time
 def fastest_delivery(times):
     return min(times)
