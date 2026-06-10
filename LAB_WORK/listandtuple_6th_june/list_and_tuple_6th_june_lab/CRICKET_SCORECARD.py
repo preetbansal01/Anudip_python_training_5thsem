@@ -1,7 +1,7 @@
 scores = [45, 78, 12, 100, 67, 8, 90, 55] 
 
 # 1. Count half-centuries (50–99) and centuries (100+)
-half_centuries = 0
+half_centuries = 0 
 centuries = 0
 for s in scores:
     if s >= 50 and s < 100:
