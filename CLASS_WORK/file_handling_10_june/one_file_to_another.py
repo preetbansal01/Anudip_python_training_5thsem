@@ -1,5 +1,5 @@
 # Program to copy content from one file to another
-
+ 
 # Open source file in read mode
 source_file = open(r"C:\Users\gujja\OneDrive\Desktop\PYTHON ANUDEEP\CLASS_WORK\file_handling_10_june\file.txt", "r")
 
