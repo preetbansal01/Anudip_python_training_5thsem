@@ -1,6 +1,6 @@
 attendance = ['P', 'P', 'A', 'P', 'A', 'P', 'P', 'P', 'A', 'P', 'P', 'A', 'P', 'P', 'P'] 
 
-# 1. Count present and absent days
+# 1. Count present and absent days 
 present = 0
 absent = 0
 for day in attendance:

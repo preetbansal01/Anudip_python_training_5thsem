@@ -2,7 +2,7 @@ employees = [
     ("Rahul", 35000),
     ("Priya", 55000),
     ("Amit", 42000),
-    ("Neha", 65000)
+    ("Neha", 65000) 
 ]
 
 # 1. Display employees earning above ₹50,000
