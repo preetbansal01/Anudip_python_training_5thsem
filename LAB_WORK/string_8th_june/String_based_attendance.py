@@ -1,4 +1,4 @@
-attendance = "PPAPPPAAPPPPAPP"
+ attendance = "PPAPPPAAPPPPAPP"
 
 present = attendance.count('P')
 absent = attendance.count('A')
