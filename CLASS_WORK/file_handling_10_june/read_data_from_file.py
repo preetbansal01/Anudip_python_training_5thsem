@@ -1,6 +1,6 @@
 # Classwork : To read the data from file and display the following:
 # 1. No. of Vowels in file.
-# 2. No. of characters into the file.
+# 2. No. of characters into the file. 
 # 3. No. of lines into the file.
 
 # Open file in read mode
