@@ -1,0 +1,10 @@
+S101,Anuj,92,Pass
+S102,Rahul,76,Pass
+S103,Priya,88,Pass
+S104,Neha,45,Pass
+S105,Amit,58,Pass
+S106,Sneha,95,Pass
+S107,Karan,81,Pass
+S108,Pooja,73,Pass
+S109,Rohit,39,Fail
+S110,Anjali,90,Pass
